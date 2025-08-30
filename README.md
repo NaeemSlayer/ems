@@ -1,1 +1,3 @@
 # ems
+
+waste of time project, still learned somethings but never again blindly following a tutorial without checking comments, no energy to invest in this again...
